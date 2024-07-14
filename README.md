@@ -15,6 +15,7 @@ Production Process: FR4 double-sided
 Operating Temperature: 10°C - 30°C
 Humidity: 10% - 90% non-condensing
 Product Dimensions: 60mm x 20mm
+
 Type of Sensor:
 The RoboDo REL_35 is an analog water level depth sensor, meaning it provides an analog output signal
 proportional to the water level or depth.
