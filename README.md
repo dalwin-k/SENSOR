@@ -2,6 +2,9 @@
 
 How does a Water Level Sensor Work and How to Interface it with Arduino? 
 
+![image](https://github.com/user-attachments/assets/dc53a588-9df8-41f8-9172-a36fb97a410f)
+
+
 COMPONENTS: Sensors: Conducting Plates Actuators 
 
 (Output Devices): LED (connected to pin D6) 
@@ -153,6 +156,9 @@ The water level sensor, when submerged, exhibits changes in its electrical prope
 these changes, applies thresholds and mappings, and then uses the information to control an output
 device (LED) to visually represent the water level. This process is repeated continuously in the loop,
 allowing real-time monitoring of water levels.
+
+![image](https://github.com/user-attachments/assets/2ceab915-5c6e-4968-b819-1d2205425240)
+
 
 CODE EXPLAINED:
 
