@@ -17,6 +17,9 @@ Power Supply Components: 5V Supply Voltage
 
 Microcontroller Board: Arduino Board
 
+![image](https://github.com/user-attachments/assets/82c96cb8-95c1-4004-826c-a0bbcb6d3f75)
+
+
 ROBODO REL_35 WATER LEVEL DEPTH SENSOR:
 
 Operating Voltage: DC 3-5V
